@@ -105,7 +105,9 @@ body {
   right: 5px;
   top: 50%;
   transform: translateY(-50%);
+  
 }
+
 
 .search-icon:hover {
   color: #4b0082;
