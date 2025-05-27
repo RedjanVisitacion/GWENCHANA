@@ -7,7 +7,7 @@ body {
       overflow: hidden;
       background: rgba(255,255,255,0.15);
       background: linear-gradient(rgba(210, 213, 218, 0.7), rgba(230, 234, 243, 0.5)),
-                url('../img/bg.gif') center/cover no-repeat fixed;
+                url('img/bg.gif') center/cover no-repeat fixed;
     
 
       backdrop-filter: blur(8px);
